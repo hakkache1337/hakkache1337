@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm hakkache yassin</h1>
-<h3 align="center">A passionate Mern stack developer from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakkache1337" alt="hakkache1337" /> </p>
 
