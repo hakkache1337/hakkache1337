@@ -1,11 +1,4 @@
-github profile markdown generator logo
-Github Profile README Generator
- Star this repo 897
- Fork on Github 101
- back to edit
- copy-markdown
- download
- preview
+
 <h1 align="center">Hi 👋, I'm hakkache yassin</h1>
 <h3 align="center">A passionate mern stack developer from morocco</h3>
 
@@ -31,7 +24,4 @@ Github Profile README Generator
 <a href="https://instagram.com/hakkacheyassine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hakkacheyassine" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/yassine hakkache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yassine hakkache" height="30" width="30" /></a>
 </p>
-About
-Addons
-Support
-Developed in India 🇮🇳
+
